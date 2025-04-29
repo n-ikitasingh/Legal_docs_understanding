@@ -91,13 +91,14 @@ The primary objective of this project is to build an AI system that:
 
 ---
 
+
 ## 📚 References
 - Merchant & Pande (2018) – Latent Semantic Analysis in Legal NLP
 - Kore et al. (2020) – Legal Document Summarization Approaches
 - Ahmad et al. (2020) – Rhetorical Role Classification using Deep Learning
 - OpenNyAI – Legal NLP Models for Indian Judgments
 - SHAP & LIME – Explainable AI Tools
-```
+  
 ---
 
 ## 👩‍💻 Developed By
